@@ -1,7 +1,6 @@
 streamlit
 langchain
+langchain-core
+langchain-groq
 langgraph
-langchain-openai
-python-dotenv
-openai
-import chromadb
+chromadb
