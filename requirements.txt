@@ -4,3 +4,4 @@ langgraph
 langchain-openai
 python-dotenv
 openai
+import chromadb
